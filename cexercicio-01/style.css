@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+    padding: 50px;
+}
+
+img {
+    border-radius: 2%;
+}
+
+p.paragrafo {
+    margin-bottom: 100px;
+}
+
+section.ul {
+    margin-bottom: 100px;
+}
